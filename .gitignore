@@ -1,4 +1,8 @@
 .DS_Store
+/db/data/pg_wal
+db/data/postmaster.pid
+db/data/global/pg_control
+
 /vendor/
 node_modules/
 npm-debug.log
@@ -22,3 +26,6 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+
+
